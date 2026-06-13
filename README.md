@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destinos-que-se-unen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Destinos que se unen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-que-se-unen/) |
+| **Get License** | [Get a Licensing Quote for Destinos que se unen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destinos-que-se-unen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Destinos que se unen en la noche de Madrid
+> Baby, let me show you lo que tengo para ti
+> Esa mirada tuya que me invita a pecar
+> Una historia de locos que no quiero terminar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

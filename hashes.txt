@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Destinos que se unen
+
+This log tracks the cryptographic history and versioning for the song **Destinos que se unen** (destinos-que-se-unen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:49:52.560143 | `v1` | `475e5144fc126459746f3721a96d9474a6387cc9bfcdc78eddae288600481f4b` | `b1e5f2fbe5bbaad45e279a3dfd91582e5e4d279e61d2b201f26075b69034dbdc` | `2026-06-14_destinos-que-se-unen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
